@@ -1,2 +1,2 @@
 # Golub-Kahan
-A review of the Golub-Kahan Bidiagonalization Method
+This is a brief overview of the Golub-Kahan Bidiagonalization method.
