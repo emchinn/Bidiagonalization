@@ -1,4 +1,4 @@
-# Bidiagonalization: Golub-Kahan Method with Householder Reflectors
+<p align="center"><h2> Bidiagonalization: Golub-Kahan Method with Householder Reflectors</h2></p>
 This is a review of the Golub-Kahan Bidiagonalization Method, using Householder reflectors. The method was developed in 1965 by [Gene H Golub](https://en.wikipedia.org/wiki/Gene_H._Golub) and [William M Kahan](https://en.wikipedia.org/wiki/William_Kahan) to eliminate problems from ill-conditioned or rank-deficient matrices. This method used in numerous algorithms including LSQR and SVD. 
 
 
