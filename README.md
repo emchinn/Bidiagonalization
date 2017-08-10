@@ -5,11 +5,15 @@ This is a review of the Golub-Kahan Bidiagonalization Method, using Householder 
 I include a digression on Householder reflectors...
 
 
-
-<img src="images/reflector3.png" align="middle" width="350"/> 
+<p align="center">
+<img src="images/reflector3.png" width="350"/> 
+</p>
 
 as well as an example of the algorithm...
 
-<img src="images/matrix_example.png" align="middle" width="450"/> 
+<p align="center">
+<img src="images/matrix_example.png" width="450"/> 
+</p>
+
 
 
