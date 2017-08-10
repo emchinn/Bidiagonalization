@@ -4,7 +4,7 @@ This is a review of the Golub-Kahan Bidiagonalization Method, using Householder 
 
 
 I include a digression on Householder reflectors...
-![a](/images/reflector3.png){:height="10%" width="15%"}
+![a](/images/reflector3.png {:height="10%" :width="15%"})
 
 
 as well as an example of the algorithm...
