@@ -6,8 +6,10 @@ I include a digression on Householder reflectors...
 
 
 
-<img src="images/reflector3.png" align="center" width="300"/> 
+<img src="images/reflector3.png" align="center" width="350"/> 
 
 as well as an example of the algorithm...
-![b](/images/matrix_example.png)<!-- .element height="20%" width="30%" -->
+
+<img src="images/matrix_example.png" align="center" width="450"/> 
+
 
