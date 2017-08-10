@@ -6,10 +6,10 @@ I include a digression on Householder reflectors...
 
 
 
-<img src="images/reflector3.png" align="center" width="350"/> 
+<img src="images/reflector3.png" align="middle" width="350"/> 
 
 as well as an example of the algorithm...
 
-<img src="images/matrix_example.png" align="center" width="450"/> 
+<img src="images/matrix_example.png" align="middle" width="450"/> 
 
 
