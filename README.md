@@ -3,6 +3,8 @@ This is a review of the Golub-Kahan Bidiagonalization Method, using Householder 
 
 
 I include a digression on Householder reflectors...
+<img src="https://github.com/emchinn/Bidiagonalization/images/reflector3.png" width="200" height="400" />
+
 ![a](/images/reflector3.png)
 
 
