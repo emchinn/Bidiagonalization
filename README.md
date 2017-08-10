@@ -4,13 +4,12 @@ This is a review of the Golub-Kahan Bidiagonalization Method, using Householder 
 
 
 I include a digression on Householder reflectors...
-![matrix](/images/reflector3.png width="25)
+![](images/reflector3.png) <!-- .element height="20%" width="30%" -->
 
-<img src="https://github.com/emchinn/Bidiagonalization/images/reflector3.png" width="25">
 
 
 
 
 as well as an example of the algorithm...
-![150x70](images/matrix_example.png)
+![](images/matrix_example.png)
 
