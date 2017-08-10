@@ -3,7 +3,10 @@ This is a review of the Golub-Kahan Bidiagonalization Method, using Householder 
 
 
 I include a digression on Householder reflectors...
-<img src="images/reflector3.png" width="150"/> 
+
+
+
+<img src="images/reflector3.png" align="center" width="300"/> 
 
 as well as an example of the algorithm...
 ![b](/images/matrix_example.png)<!-- .element height="20%" width="30%" -->
